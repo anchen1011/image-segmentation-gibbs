@@ -1,4 +1,4 @@
-# gibbs-image-segmentation
+# image-segmentation-gibbs
 Gibbs algorithm for foreground/background segmentation.
 
 ## gibbs.py
